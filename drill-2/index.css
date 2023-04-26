@@ -1,0 +1,47 @@
+section {  
+  border-color: black; 
+  border-width: 5px ;
+  margin: auto;
+  margin-top: 5vh;
+  position: relative;
+}
+#SolidBorder {
+    height: 30vh;
+    width: 90%;
+    border-style: solid;
+}
+div {
+  position: absolute;
+  bottom: 7%;
+}
+#Rec-Skinny {
+    width: 4%;
+    height: 65%;
+    background-color: blueviolet;
+    left: 1%;
+    
+}
+#Fat-Rec {
+    width: 32%;
+    height: 85%;
+    background-color: forestgreen;
+    left: 9%;
+}
+#Circle {
+    width: 25vh;
+    height: 25vh;
+    background-color: skyblue;
+    left: 45%;
+    border-radius: 50%;
+}
+#DottedBorder {
+    height: 45vh;
+    border-style: dotted;
+    padding: 1%;
+    width: 88%;
+}
+article {
+    height: 100%;
+    background-color: lemonchiffon;
+    
+}
